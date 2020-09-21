@@ -1,0 +1,14 @@
+[package]
+name = "souq"
+version = "0.0.1"
+authors = ["Nikola Hristov <nikola@playform.cloud>"]
+edition = "2018"
+description = "High-performance e-commerce API and architecture."
+documentation = "https://docs.rs/souq/"
+readme = "README.md"
+repository = "https://github.com/nhristov/souq"
+license-file = "LICENSE"
+keywords = ["e-commerce", "souq", "api"]
+categories = ["web-programming", "web-programming::http-client"]
+
+[dependencies]
